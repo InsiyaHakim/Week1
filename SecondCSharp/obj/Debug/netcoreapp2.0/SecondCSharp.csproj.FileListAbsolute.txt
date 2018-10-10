@@ -1,0 +1,3 @@
+C:\Users\insiya\Documents\C#\SecondCSharp\obj\Debug\netcoreapp2.0\SecondCSharp.csproj.CoreCompileInputs.cache
+C:\Users\insiya\Documents\C#\SecondCSharp\obj\Debug\netcoreapp2.0\SecondCSharp.AssemblyInfoInputs.cache
+C:\Users\insiya\Documents\C#\SecondCSharp\obj\Debug\netcoreapp2.0\SecondCSharp.AssemblyInfo.cs

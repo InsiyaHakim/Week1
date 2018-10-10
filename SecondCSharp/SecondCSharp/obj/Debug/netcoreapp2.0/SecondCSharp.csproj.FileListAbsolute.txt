@@ -1,0 +1,10 @@
+C:\Users\insiya\Documents\C#\SecondCSharp\SecondCSharp\bin\Debug\netcoreapp2.0\SecondCSharp.deps.json
+C:\Users\insiya\Documents\C#\SecondCSharp\SecondCSharp\bin\Debug\netcoreapp2.0\SecondCSharp.runtimeconfig.json
+C:\Users\insiya\Documents\C#\SecondCSharp\SecondCSharp\bin\Debug\netcoreapp2.0\SecondCSharp.runtimeconfig.dev.json
+C:\Users\insiya\Documents\C#\SecondCSharp\SecondCSharp\bin\Debug\netcoreapp2.0\SecondCSharp.dll
+C:\Users\insiya\Documents\C#\SecondCSharp\SecondCSharp\bin\Debug\netcoreapp2.0\SecondCSharp.pdb
+C:\Users\insiya\Documents\C#\SecondCSharp\SecondCSharp\obj\Debug\netcoreapp2.0\SecondCSharp.csproj.CoreCompileInputs.cache
+C:\Users\insiya\Documents\C#\SecondCSharp\SecondCSharp\obj\Debug\netcoreapp2.0\SecondCSharp.AssemblyInfoInputs.cache
+C:\Users\insiya\Documents\C#\SecondCSharp\SecondCSharp\obj\Debug\netcoreapp2.0\SecondCSharp.AssemblyInfo.cs
+C:\Users\insiya\Documents\C#\SecondCSharp\SecondCSharp\obj\Debug\netcoreapp2.0\SecondCSharp.dll
+C:\Users\insiya\Documents\C#\SecondCSharp\SecondCSharp\obj\Debug\netcoreapp2.0\SecondCSharp.pdb
