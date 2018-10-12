@@ -1,0 +1,11 @@
+C:\Users\insiya\Documents\C#\Week1\collection_practice\bin\Debug\netcoreapp2.0\collection_practice.deps.json
+C:\Users\insiya\Documents\C#\Week1\collection_practice\bin\Debug\netcoreapp2.0\collection_practice.runtimeconfig.json
+C:\Users\insiya\Documents\C#\Week1\collection_practice\bin\Debug\netcoreapp2.0\collection_practice.runtimeconfig.dev.json
+C:\Users\insiya\Documents\C#\Week1\collection_practice\bin\Debug\netcoreapp2.0\collection_practice.dll
+C:\Users\insiya\Documents\C#\Week1\collection_practice\bin\Debug\netcoreapp2.0\collection_practice.pdb
+C:\Users\insiya\Documents\C#\Week1\collection_practice\obj\Debug\netcoreapp2.0\collection_practice.csprojResolveAssemblyReference.cache
+C:\Users\insiya\Documents\C#\Week1\collection_practice\obj\Debug\netcoreapp2.0\collection_practice.csproj.CoreCompileInputs.cache
+C:\Users\insiya\Documents\C#\Week1\collection_practice\obj\Debug\netcoreapp2.0\collection_practice.AssemblyInfoInputs.cache
+C:\Users\insiya\Documents\C#\Week1\collection_practice\obj\Debug\netcoreapp2.0\collection_practice.AssemblyInfo.cs
+C:\Users\insiya\Documents\C#\Week1\collection_practice\obj\Debug\netcoreapp2.0\collection_practice.dll
+C:\Users\insiya\Documents\C#\Week1\collection_practice\obj\Debug\netcoreapp2.0\collection_practice.pdb
